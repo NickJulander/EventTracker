@@ -5,13 +5,13 @@ To run:
 
 Download and unzip the files.
 
-Using the terminal to entrer the repository.
+Use the terminal to enter the repository.
 
 You need to run the JSON backend server with the following command. Run the command from inside the src folder.
 
   [ npm run server  ]
   
- Next you need to run the build of the ReactJS app using the following command:
+ Next you need to run the build of the ReactJS app using the following command. Run the command from the root of this repo.
  
   [ serve -s build  ]
   
